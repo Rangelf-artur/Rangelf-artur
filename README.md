@@ -26,7 +26,7 @@ Sou um desenvolvedor mobile junior apaixonado por criar aplicativos incríveis p
   ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
   
-  -**Em desenvolvimento**:
+- **Em desenvolvimento**:
   ![React Native](https://img.shields.io/badge/-React%20Native-blue?logo=react&logoColor=white)
   ![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white)
 <!-- 
