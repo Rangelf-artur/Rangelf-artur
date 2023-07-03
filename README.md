@@ -7,18 +7,21 @@
 Sou um desenvolvedor mobile junior apaixonado por criar aplicativos incríveis para dispositivos móveis. Com uma sólida formação em desenvolvimento de software e um entusiasmo contagiante por novas tecnologias, estou constantemente buscando aprimorar minhas habilidades e aprender com novos desafios.
 
 ## Tecnologias e Habilidades
-- **Linguagens de Programação**: 
+- **Linguagens de Programação**:
+ <!--  
  [//]: # (![Swift](https://img.shields.io/badge/-Swift-orange?logo=swift&logoColor=white))
 [//]: # (![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=kotlin&logoColor=white))
+-->
   ![JavaScript](https://img.shields.io/badge/-JavaScript-orange?logo=javascript&logoColor=white)
 - **Frameworks**: 
   ![SwiftUI](https://img.shields.io/badge/-SwiftUI-blue?logo=swift&logoColor=white)
   ![Android Jetpack](https://img.shields.io/badge/-Android%20Jetpack-blue?logo=android&logoColor=white)
-  
+ <!--  
 - **Banco de Dados**: 
   [//]: ![Firebase](https://img.shields.io/badge/-Firebase-yellow?logo=firebase&logoColor=white)
  [//]:  ![SQLite](https://img.shields.io/badge/-SQLite-yellow?logo=sqlite&logoColor=white)
   [//]: ![Core Data](https://img.shields.io/badge/-Core%20Data-yellow)
+  -->
 - **Controle de Versão**: 
   ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
