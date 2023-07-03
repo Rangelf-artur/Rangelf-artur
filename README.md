@@ -20,7 +20,8 @@ Sou um desenvolvedor full-stack junior em formação, com conhecimento completo 
   
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
           
-- **Banco de Dados**: 
+- **Banco de Dados**:
+- 
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
           
 - **Controle de Versão**: 
