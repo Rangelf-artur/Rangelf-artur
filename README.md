@@ -1,12 +1,15 @@
 # Olá, Bem-vindo(a) ao meu Perfil do GitHub!
 
-[![Visitas ao Perfil](https://komarev.com/ghpvc/?username=rangelf-artur&color=brightgreen)](https://github.com/rangelf-artur)
-[![Seguidores](https://img.shields.io/github/followers/rangelf-artur?style=social)](https://github.com/rangelf-artur)
-
 ## Sobre Mim
 Sou um desenvolvedor full-stack junior em formação, com conhecimento completo para trabalhar com Front-end e focado em Mobile multiplataforma. Meu objetivo é criar aplicativos práticos para o dia-a-dia em dispositivos móveis. Com uma sólida formação em desenvolvimento de software pela Trybe, além de outros certificados, estou sempre em busca de aprimorar minhas habilidades e códigos.
 
 ## Tecnologias e Habilidades
+
+- **Colaboração**:
+  
+  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+  
 - **Linguagens de Programação**:
 
   ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,7 +47,7 @@ Sou um desenvolvedor full-stack junior em formação, com conhecimento completo 
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-          
+
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## Estatísticas do GitHub
