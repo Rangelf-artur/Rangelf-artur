@@ -15,10 +15,11 @@ Sou um desenvolvedor mobile junior apaixonado por criar aplicativos incríveis p
  [//]: # (![Swift](https://img.shields.io/badge/-Swift-orange?logo=swift&logoColor=white))
 [//]: # (![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=kotlin&logoColor=white))
 -->
-- **Frameworks**: 
+- **Frameworks**:
+   <!-- 
   ![SwiftUI](https://img.shields.io/badge/-SwiftUI-blue?logo=swift&logoColor=white)
   ![Android Jetpack](https://img.shields.io/badge/-Android%20Jetpack-blue?logo=android&logoColor=white)          
-  
+  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
           
  <!--  
@@ -28,8 +29,12 @@ Sou um desenvolvedor mobile junior apaixonado por criar aplicativos incríveis p
   [//]: ![Core Data](https://img.shields.io/badge/-Core%20Data-yellow)
   -->
 - **Controle de Versão**: 
-  ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
+  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" />
+          
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
+          
   
 - **Em desenvolvimento**:
   ![React Native](https://img.shields.io/badge/-React%20Native-blue?logo=react&logoColor=white)
