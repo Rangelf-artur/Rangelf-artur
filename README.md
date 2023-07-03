@@ -8,7 +8,9 @@ Sou um desenvolvedor mobile junior apaixonado por criar aplicativos incríveis p
 
 ## Tecnologias e Habilidades
 - **Linguagens de Programação**:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-orange?logo=javascript&logoColor=white)
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+          
  <!--  
  [//]: # (![Swift](https://img.shields.io/badge/-Swift-orange?logo=swift&logoColor=white))
 [//]: # (![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=kotlin&logoColor=white))
