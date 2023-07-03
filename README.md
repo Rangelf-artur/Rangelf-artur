@@ -9,9 +9,9 @@ Sou um desenvolvedor full-stack junior em formação, com conhecimento completo 
 ## Tecnologias e Habilidades
 - **Linguagens de Programação**:
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
           
  <!--  
  [//]: # (![Swift](https://img.shields.io/badge/-Swift-orange?logo=swift&logoColor=white))
@@ -19,7 +19,7 @@ Sou um desenvolvedor full-stack junior em formação, com conhecimento completo 
 -->
 - **Frameworks**:
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <!-- 
   ![SwiftUI](https://img.shields.io/badge/-SwiftUI-blue?logo=swift&logoColor=white)
   ![Android Jetpack](https://img.shields.io/badge/-Android%20Jetpack-blue?logo=android&logoColor=white)          
@@ -33,16 +33,16 @@ Sou um desenvolvedor full-stack junior em formação, com conhecimento completo 
   -->
 - **Controle de Versão**: 
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40" />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 - **Em desenvolvimento**:
   
   ![React Native](https://img.shields.io/badge/-React%20Native-blue?logo=react&logoColor=white)
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" width="40" height="40"  />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"  />
           
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
           
 <!-- 
 ## Projetos Destacados
