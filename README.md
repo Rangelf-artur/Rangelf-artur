@@ -16,6 +16,7 @@ Sou um desenvolvedor mobile junior apaixonado por criar aplicativos incríveis p
 - **Frameworks**: 
   ![SwiftUI](https://img.shields.io/badge/-SwiftUI-blue?logo=swift&logoColor=white)
   ![Android Jetpack](https://img.shields.io/badge/-Android%20Jetpack-blue?logo=android&logoColor=white)
+
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
  <!--  
 - **Banco de Dados**: 
