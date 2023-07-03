@@ -33,7 +33,7 @@ Sou um desenvolvedor full-stack junior em formação, com conhecimento completo 
   -->
 - **Controle de Versão**: 
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  />
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"  />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 - **Em desenvolvimento**:
