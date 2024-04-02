@@ -1,7 +1,7 @@
 # Olá, Bem-vindo(a) ao meu Perfil do GitHub!
 
 ## Sobre Mim
-Sou um desenvolvedor full-stack junior em formação, com conhecimento completo para trabalhar com Front-end e focado em Mobile multiplataforma. Meu objetivo é criar aplicativos práticos para o dia-a-dia em dispositivos móveis. Com uma sólida formação em desenvolvimento de software pela Trybe, além de outros certificados, estou sempre em busca de aprimorar minhas habilidades e códigos.
+Sou um desenvolvedor full-stack junior em formação, com conhecimento completo para trabalhar com Front-end e focado em Mobile multiplataforma. Meu objetivo é criar aplicativos práticos para o dia-a-dia em dispositivos móveis. Com uma sólida formação em desenvolvimento de software pela Alura, além de outros certificados, estou sempre em busca de aprimorar minhas habilidades e códigos.
 
 ## Tecnologias e Habilidades
 
